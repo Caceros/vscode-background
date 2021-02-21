@@ -1,0 +1,22 @@
+{
+    "background.useFront": false,
+    "background.useDefault": false,
+    "background.customImages": [
+        "https://yys.res.netease.com/pc/zt/20161108171335/data/shishen_big_beforeAwake/346.png?v5",
+        "https://yys.res.netease.com/pc/zt/20161108171335/data/shishen_big_beforeAwake/357.png?v5",
+        "https://yys.res.netease.com/pc/zt/20161108171335/data/shishen_big_beforeAwake/343.png?v5",
+        "https://yys.res.netease.com/pc/zt/20161108171335/data/shishen_big_beforeAwake/347.png?v5",
+    ],
+    "background.style": {
+        "content": "''",
+        "pointer-events": "none",
+        "position": "absolute",
+        "z-index": "99999",
+        "width": "100%",
+        "height": "100%",
+        "background-position": "left 105% top 100%",
+        "background-size": "auto 40%",
+        "background-repeat": "no-repeat",
+        "opacity": 0.5
+    }
+}
